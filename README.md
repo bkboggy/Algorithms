@@ -1,2 +1,2 @@
 # Algorithms
-Algorithm implementations in various languages.
+Various algorithm implementations in various languages.
